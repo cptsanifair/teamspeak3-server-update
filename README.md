@@ -20,4 +20,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - systemd service for ts3server installed
 - server.ini in the root of the user home directory
 
-read the script, understand and if you agree to use then install it to be use it with cron
+### _read the script, understand and if you agree to use then install it_
+ 
